@@ -196,3 +196,9 @@ html, body{
 .footer_links a:hover{
     color: #FDF24A
 }
+.identitas{
+    display: flex;
+    flex-grow: 1;
+    align-items: flex-end;
+    justify-content: space-evenly;
+}
